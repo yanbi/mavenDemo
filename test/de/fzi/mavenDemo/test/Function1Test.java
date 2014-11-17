@@ -34,8 +34,13 @@ public class Function1Test {
 	}
 
 	@Test
-	public void test() {
+	public void test1() {
 	 assertTrue(true);
+	}
+	
+	@Test
+	public void test2() {
+	 assertTrue(false);
 	}
 
 }
